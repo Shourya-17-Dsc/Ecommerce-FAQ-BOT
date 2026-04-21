@@ -1,0 +1,30 @@
+
+
+# ── LangGraph + LangChain 
+langgraph>=0.2.0
+langchain-groq>=0.1.0
+langchain-community>=0.2.0
+
+# ── Vector DB + Embeddings 
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# ── LLM / AI 
+groq>=0.9.0
+
+# ── Evaluation 
+ragas>=0.1.0
+datasets>=2.20.0
+
+# ── Web / API 
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+streamlit>=1.36.0
+
+# ── Utilities 
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# ── Notebook 
+ipykernel>=6.0.0
+jupyter>=1.0.0
